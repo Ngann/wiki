@@ -1,0 +1,21 @@
+<div class="col-md-2">
+  <ul>
+    <a href="#">Arts</li>
+    <a href="#">Biography</li>
+    <a href="#">Geography</li>
+  </ul>
+</div>
+<div class="col-md-2">
+  <ul>
+    <a href="#">History</li>
+    <a href="#">Mathmatics</li>
+    <a href="#">Science</li>
+  </ul>
+</div>
+<div class="col-md-2">
+  <ul>
+    <a href="#">Society</li>
+    <a href="#">Technology</li>
+    <a href="#">All portals</li>
+  </ul>
+</div>
